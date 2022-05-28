@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name" translatable="false">groupe5v2</string>
+    <string name="bouton_calculer">Nouvelle Partie</string>
+    <string name="bouton_derniere_operation">Tableau des scores</string>
+    <string name="bouton_0" translatable="false">0</string>
+    <string name="bouton_3" translatable="false">3</string>
+    <string name="bouton_2" translatable="false">2</string>
+    <string name="bouton_1" translatable="false">1</string>
+    <string name="bouton_6" translatable="false">6</string>
+    <string name="bouton_5" translatable="false">5</string>
+    <string name="bouton_4" translatable="false">4</string>
+    <string name="bouton_9" translatable="false">9</string>
+    <string name="bouton_8" translatable="false">8</string>
+    <string name="bouton_7" translatable="false">7</string>
+    <string name="bouton_substract" translatable="false">-</string>
+    <string name="bouton_divide" translatable="false">/</string>
+    <string name="bouton_multiply" translatable="false">*</string>
+    <string name="bouton_add" translatable="false">+</string>
+    <string name="bouton_precedent">Précédent</string>
+    <string name="toolbar_erreurs">Erreurs possible</string>
+    <string name="toolbar_score">Score</string>
+    <string name="toolbar_vies">Vie</string>
+    <string name="ERROR_VALEUR_TROP_GRANDE">Valeur trop grande</string>
+    <string name="ERROR_DIVISION_ZERO">Division par zero</string>
+    <string name="valider">Valider</string>
+    <string name="Effacer">Effacer</string>
+    <string name="SUCCESS_CALCUL">Succes</string>
+    <string name="ERROR_CALCUL">Erreur</string>
+    <string name="ERROR_GAME_OVER">Game Over</string>
+
+</resources>

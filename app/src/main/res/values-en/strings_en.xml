@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bouton_calculer">New Game</string>
+    <string name="bouton_derniere_operation">Scoreboard</string>
+    <string name="bouton_precedent">Previous</string>
+    <string name="toolbar_erreurs">Errors remaining</string>
+    <string name="toolbar_score">Score</string>
+    <string name="toolbar_vies">Life</string>
+    <string name="ERROR_VALEUR_TROP_GRANDE">Value too high</string>
+    <string name="ERROR_DIVISION_ZERO">Divide by 0</string>
+    <string name="valider">Validate</string>
+    <string name="Effacer">Erase</string>
+    <string name="SUCCESS_CALCUL">Success</string>
+    <string name="ERROR_CALCUL">Error</string>
+    <string name="ERROR_GAME_OVER">Game Over</string>
+
+
+</resources>
